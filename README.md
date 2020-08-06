@@ -1,6 +1,6 @@
 ### Hi there, I'm Hèctor 👋
 
-## I'm a software developer & engineer student
+## I'm a software developer and engineering student
 
 - 🔭 I’m currently working on multiple Golang based projects on [alvidir](https://github.com/alvidir) organization.
 - 🌱 At same way i'm also learning about Golang & Rust programming.
