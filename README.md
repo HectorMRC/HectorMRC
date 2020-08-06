@@ -5,7 +5,6 @@
 - 🔭 I’m currently working on multiple Golang based projects on [alvidir](https://github.com/alvidir) organization.
 - 🌱 At same way i'm also learning about Golang & Rust programming.
 - 👯 It would be nice to collaborate on interesting Web & ML projects.
-- ⚡ Fun fact:
 
 ### Learn more about me:
 
