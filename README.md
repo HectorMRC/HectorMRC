@@ -23,7 +23,7 @@
 [<img alt="Java" src="https://raw.githubusercontent.com/HectorMRC/HectorMRC/master/img/java.png" height="25" style="margin: 3px"/>](https://java.com/)
 [<img alt="SQL" src="https://raw.githubusercontent.com/HectorMRC/HectorMRC/master/img/sql.png" height="25" style="margin: 3px"/>]()
 [<img alt="React" src="https://raw.githubusercontent.com/HectorMRC/HectorMRC/master/img/react.png" height="25" style="margin: 3px"/>](https://reactjs.org/)
-[<img src="https://raw.githubusercontent.com/HectorMRC/HectorMRC/master/img/separator.png" height="25" style="margin: 3px"/>]()
+[<img src="https://raw.githubusercontent.com/HectorMRC/HectorMRC/master/img/separator.png" height="25" style="margin: 3px; padding-right: 5px"/>]()
 [<img alt="Visual Studio Code" src="https://raw.githubusercontent.com/HectorMRC/HectorMRC/master/img/vscode.png" height="25" style="margin: 3px"/>](https://code.visualstudio.com/)
 [<img alt="MySql" src="https://raw.githubusercontent.com/HectorMRC/HectorMRC/master/img/mysql.png" height="25" style="margin: 3px"/>](https://www.mysql.com/)
 [<img alt="MongoDB" src="https://raw.githubusercontent.com/HectorMRC/HectorMRC/master/img/mongodb.png" height="25" style="margin: 3px"/>](https://www.mongodb.com/cloud/atlas)
