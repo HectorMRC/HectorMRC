@@ -27,6 +27,7 @@
 [<img alt="Visual Studio Code" src="https://raw.githubusercontent.com/HectorMRC/HectorMRC/master/img/vscode.png" height="25" style="margin: 3px"/>](https://code.visualstudio.com/)
 [<img alt="MySql" src="https://raw.githubusercontent.com/HectorMRC/HectorMRC/master/img/mysql.png" height="25" style="margin: 3px"/>](https://www.mysql.com/)
 [<img alt="MongoDB" src="https://raw.githubusercontent.com/HectorMRC/HectorMRC/master/img/mongodb.png" height="25" style="margin: 3px"/>](https://www.mongodb.com/cloud/atlas)
+[<img alt="MongoDB" src="https://raw.githubusercontent.com/HectorMRC/HectorMRC/master/img/graphql.png" height="25" style="margin: 3px"/>](https://graphql.org/)
 [<img alt="Jenkins" src="https://raw.githubusercontent.com/HectorMRC/HectorMRC/master/img/jenkins.png" height="25" style="margin: 3px"/>](https://www.jenkins.io/)
 [<img alt="Git" src="https://raw.githubusercontent.com/HectorMRC/HectorMRC/master/img/git.png" height="25" style="margin: 3px"/>](https://rogerdudler.github.io/git-guide/)
 
