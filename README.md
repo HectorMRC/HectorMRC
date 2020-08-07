@@ -32,6 +32,8 @@
 [<img alt="MongoDB" src="https://raw.githubusercontent.com/HectorMRC/HectorMRC/master/img/graphql.png" height="25" style="margin: 3px"/>](https://graphql.org/)
 [<img alt="Jenkins" src="https://raw.githubusercontent.com/HectorMRC/HectorMRC/master/img/jenkins.png" height="25" style="margin: 3px"/>](https://www.jenkins.io/)
 [<img alt="Git" src="https://raw.githubusercontent.com/HectorMRC/HectorMRC/master/img/git.png" height="25" style="margin: 3px"/>](https://rogerdudler.github.io/git-guide/)
+[<img alt="Docker" src="https://raw.githubusercontent.com/HectorMRC/HectorMRC/master/img/docker.png" height="25" style="margin: 3px"/>](https://www.docker.com/)
+[<img alt="K8S" src="https://raw.githubusercontent.com/HectorMRC/HectorMRC/master/img/k8s.png" height="25" style="margin: 3px"/>](https://kubernetes.io/)
 
 ### My stats
 
