@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on multiple Golang based projects on [alvidir](https://github.com/alvidir) organization.
 - 🌱 At same way i'm also learning about Golang & Rust programming. As well as a lot more technologies that i'm intrigued about. 
 - 👯 It would be nice to collaborate on interesting Web & ML projects.
-- 📫 How to reach me: the easiest way is via [email](hector.morales.carnice@gmail.com).
+- 📫 How to reach me: the easiest way is via email <hector.morales.carnice@gmail.com>.
 - :bulb: Any software project is like a cake: presentation has to be good, but the ingredients must be the best.
 
 
