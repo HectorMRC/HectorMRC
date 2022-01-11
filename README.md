@@ -11,7 +11,3 @@
 ### My stats
 
 [![Hector's github stats](https://github-readme-stats.vercel.app/api?username=HectorMRC&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-### Also find me
-[<img alt="Hèctor's Twitter" src="https://raw.githubusercontent.com/HectorMRC/HectorMRC/master/img/twitter.webp" height="40" style="padding: 2.5px"/>](https://twitter.com/ranyufo)
-[<img alt="Hèctor's Linkedin" src="https://raw.githubusercontent.com/HectorMRC/HectorMRC/master/img/linkedin.png" height="44" style="padding: 2.5px"/>](https://linkedin.com/in/hectormrc/)
