@@ -6,5 +6,5 @@
   <h3>Welcome to my little spot</h3>
   <span>This space is a jumble of projects without any order nor relation between them.<br>
         Besides, a world building project is being developed at the <a href="https://github.com/alvidir">Alvidir</a> organization.<br>
-        Check it out! Collaboration and feedback will be more than welcome. ;)</span>
+        Check it out! Collaboration and feedback are more than welcome. ;)</span>
 </div>
